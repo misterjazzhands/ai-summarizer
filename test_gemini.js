@@ -1,5 +1,5 @@
 
-const apiKey = 'AIzaSyBtoNy4uwhc_6t6DSMT_KuIcXhir6x4ws8';
+const apiKey = '';
 const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
 
 async function testApi() {
